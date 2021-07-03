@@ -1,4 +1,4 @@
-### Hi there 👋
+## 👋 Hi there, This is Aryan Kaushik
 
 <!--
 **Aryan20/Aryan20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryan20&count_private=true&show_icons=true&theme=radical&include_all_commits=True)
+
+### 📫 How to reach me?
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/aryan-kaushik23/)
+- Send me an Email at aryankaushik2023@gmail.com :email:
+
