@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 ### 📫 How to reach me?
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/aryan-kaushik23/)
 - Send me an Email at aryankaushik2023@gmail.com :email:
-
+- Need encryption? [ed25519 key](https://drive.google.com/file/d/1nhMvc1aRkiRU6eARnQK5Rfv6m6qs9b52/view?usp=sharing)
