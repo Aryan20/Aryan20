@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 
 ![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryan20&count_private=true&show_icons=true&theme=radical&include_all_commits=True)
 
+
 ### 📫 How to reach me?
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/aryan-kaushik23/)
-- Send me an Email at aryankaushik2023@gmail.com :email:
+- Send me an Email at aryankaushik2023@gmail.com, Lucifer_Rekt@proton.me :email:
 - Need encryption? [ed25519 key](https://drive.google.com/file/d/1nhMvc1aRkiRU6eARnQK5Rfv6m6qs9b52/view?usp=sharing)
