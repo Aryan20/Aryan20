@@ -1,5 +1,9 @@
 ## 👋 Hi there, This is Aryan Kaushik
 
+I'm a full stack developer working on my life goals. 
+
+Contributor at GNOME Foundation in GSoC'22 
+
 <!--
 **Aryan20/Aryan20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,4 +25,5 @@ Here are some ideas to get you started:
 ### 📫 How to reach me?
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/aryan-kaushik23/)
 - Send me an Email at aryankaushik2023@gmail.com, Lucifer_Rekt@proton.me :email:
-- Need encryption? [ed25519 key](https://drive.google.com/file/d/1nhMvc1aRkiRU6eARnQK5Rfv6m6qs9b52/view?usp=sharing)
+- Website & Blog - www.aryank.in
+- Gitlab - gitlab.gnome.org/Aryan20
