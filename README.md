@@ -24,6 +24,6 @@ Here are some ideas to get you started:
 
 ### 📫 How to reach me?
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/aryan-kaushik23/)
-- Send me an Email at aryankaushik2023@gmail.com, Lucifer_Rekt@proton.me :email:
+- Send me an Email at aryan@aryank.in, Lucifer_Rekt@proton.me :email:
 - Website & Blog - www.aryank.in
 - Gitlab - gitlab.gnome.org/Aryan20
