@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 
 ![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryan20&count_private=true&show_icons=true&theme=radical&include_all_commits=True)
 
+![](https://komarev.com/ghpvc/?username=Aryan20)
+
 
 ### 📫 How to reach me?
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/aryan-kaushik23/)
