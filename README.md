@@ -3,6 +3,7 @@
 I'm a full stack developer working on my life goals. 
 
 Contributor at GNOME Foundation in GSoC'22 
+
 Contributor at Chromium in GSoC'23 
 
 <!--
